@@ -1,6 +1,6 @@
-# EDIVisualizer
-EDIVisualizer is a reader for different files fomats use in EDI (Electronic data interchange).
-EDIVisualizer use Plugin architecture to manage different formats. Actually, plugin are available for EDIFACT and VDA files. New plugins (i hope) will appear in futur (X12, specific formats).
+# EDI Visualizer
+EDI Visualizer is a reader for different files fomats use in EDI (Electronic data interchange).
+EDI Visualizer use Plugin architecture to manage different formats. Actually, plugin are available for EDIFACT and VDA files. New plugins (i hope) will appear in futur (X12, specific formats).
 
 Features :
   - Detect automatically the input file format and load the appropriate plugin
@@ -8,7 +8,7 @@ Features :
   - Search function in file in the current plugin selected
   - Drag and drop files function
   - Reset loading files
-  - New Plugin creation possible (see [READMEPlugin.md](https://github.com/mdelpeix/EDIVisualizer/blob/master/READMEPlugin.md) for documentation and example)
+  - New Plugin creation possible (see [READMEPlugin.md](https://github.com/jimg03942/edi-visualizer/blob/master/READMEPlugin.md) for documentation and example)
   
 Plugin Edifact :
   - Use by default to load file with "edi" extension
